@@ -11,3 +11,6 @@ Step 4: Get the expected hash of the site you got the file and then copy that an
 (IMPORTANT: Make sure there are no leading spaces, to skew the results)
 
 Step 5: You will get a match or not, if its not a match, redownload the file, don't trust it!
+
+
+SHA-256 HASH of the test file: E64AEB98EEE1DA87BE7D01BF50CA5AA33793E2219F1E39736F731CDE2D8C542E
